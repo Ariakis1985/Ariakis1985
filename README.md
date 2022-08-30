@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Ariakis, I am Cuban. From an early age I felt attraction for electronics and computer science. I studied electronics and computer science at the Osvaldo Herrera Technological University, Havana, Cuba. I am currently attending the bootcamp Henry. I am passionate about computer science, it is a very diverse world, where creativity can reach infinite levels. I consider myself a responsible and disciplined person. I am very interested in working as a programmer and keep my knowledge about technologies updated. I like sports, movies, music, dancing is one of my favorite activities. 
+Hello, my name is Ariakis, I am 37 years old, I am Cuban. I am currently living in Mexico. From an early age I felt attraction for electronics and computer science. I started the career of Electronics and Computer Science in 2001 and finished in 2005. Currently I am studying and almost finished the Bootcamp Henry, Argentina, Buenos Aires, as a fullstack developer. I have increased my knowledge and experience with the Javascript programming language and different libraries. I have done different projects using React, Redux, Axios, PostgreSQL, Html, CSS, API consumption, among others. I am very interested in developing myself as a programmer and expanding my work experience. 
 
 
 ##### Languages I use
